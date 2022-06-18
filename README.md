@@ -22,5 +22,5 @@
 ## Usage
 
 1. type npm ```install``` in terminal
-2. type node index.js or node .
+2. type ```node index.js``` or ```node .```
 3. paste auth token and enter
