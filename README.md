@@ -15,7 +15,7 @@
 </a>
 
 ## Example auth token
-```sh
+```
 {"DeviceId":"kontol","GoogleId":"kontol","FacebookId":"kontol","Token":"kontol","Timestamp":69696969,"Hash":"kontol"}
 ```
 
@@ -24,3 +24,7 @@
 1. type npm ```install``` in terminal
 2. type ```node index.js``` or ```node .```
 3. paste auth token and enter
+
+## Credit
+Script By : Thea (me)
+Credit : [revan-ar](https://github.com/revan-ar/bot-stumble)
