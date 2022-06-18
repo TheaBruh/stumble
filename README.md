@@ -26,5 +26,5 @@
 3. paste auth token and enter
 
 ## Credit
-Script By : Thea (me)
+Code By : Thea (me)\n
 Credit : [revan-ar](https://github.com/revan-ar/bot-stumble)
